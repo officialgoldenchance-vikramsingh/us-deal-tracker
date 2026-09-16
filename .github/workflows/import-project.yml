@@ -1,0 +1,29 @@
+name: Import Project
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract project
+        run: |
+          unzip -q us-deal-tracker-updated.zip -d extracted
+          cp -a extracted/project/. .
+          rm -rf extracted us-deal-tracker-updated.zip
+
+      - name: Commit project files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import US Deal Tracker project" || exit 0
+          git push
