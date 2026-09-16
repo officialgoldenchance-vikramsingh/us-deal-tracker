@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/deals</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/categories</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/price-drops</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/compare</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/about</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/contact</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/privacy</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/terms</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/affiliate-disclosure</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/disclaimer</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/electronics</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/computers</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/phones</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/home-kitchen</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/appliances</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/beauty</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/health-fitness</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/fashion</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/gaming</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://us-deal-tracker-webs-2ui1.bolt.host/category/office</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

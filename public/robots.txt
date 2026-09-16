@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /redirect
+Sitemap: https://us-deal-tracker-webs-2ui1.bolt.host/sitemap.xml
